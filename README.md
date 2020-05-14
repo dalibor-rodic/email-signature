@@ -1,2 +1,2 @@
 # email-signature
-My custom-made email signature
+My custom email signature I built from scratch
